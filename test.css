@@ -55,8 +55,8 @@ body{
 
 
 .search button:hover{
-    width: 55px;
-    height: 55px; 
+    width: 50px;
+    height: 50px; 
     transition: 0.5s;
 }
 
@@ -83,7 +83,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 0 30px;
     margin-top: 50px;
 }
 
